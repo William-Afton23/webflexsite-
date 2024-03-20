@@ -128,8 +128,7 @@ label {
 	display: flex;
 	background-color: #f2f2f2;
 	justify-content: space-between;
-	align-items: ;
-	height: 100vh;
+	align-items: center;
 	/*flex-wrap: wrap;*/
 }
 
@@ -144,6 +143,7 @@ label {
 
 .item {
 	margin: 10px;
+	text-align: center;
 }
 
 
